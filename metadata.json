@@ -1,0 +1,6 @@
+{
+  "name": "Vonage Mobile Video & SMS Suite",
+  "description": "Live video capture and AI outfit consultation inspired by the Vonage GDG Fashion Week and Node Learning Server architecture, powered by Gemini.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
